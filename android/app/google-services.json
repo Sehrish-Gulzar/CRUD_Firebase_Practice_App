@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33956552015",
+    "project_id": "sehrish-flutter-fire-project",
+    "storage_bucket": "sehrish-flutter-fire-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33956552015:android:33c97e35de1479b00a393a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33956552015-94qparapkgto553orl07pelf6959cvl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCee6RrUkAYW3YxkEM2ElMGMvRAIAnLES8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33956552015-94qparapkgto553orl07pelf6959cvl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
